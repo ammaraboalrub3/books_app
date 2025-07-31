@@ -1,16 +1,14 @@
-# bookly_app
+# 📚 Books App - Flutter Clean Architecture
 
-A new Flutter project.
+A Flutter application that displays books using REST API, following **Clean Architecture** principles for scalability and testability.
 
-## Getting Started
+## ✅ Features
 
-This project is a starting point for a Flutter application.
+- Clean Architecture (Data ➜ Domain ➜ Presentation layers)
+- State Management using **Cubit** (`flutter_bloc`)
+- REST API integration using `Dio`
+- Search and listing of books
+- Error handling and loading states
 
-A few resources to get you started if this is your first Flutter project:
+## 🧠 Project Structure
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
