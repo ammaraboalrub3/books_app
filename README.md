@@ -10,5 +10,11 @@ A Flutter application that displays books using REST API, following **Clean Arch
 - Search and listing of books
 - Error handling and loading states
 
-## 🧠 Project Structure
+
+## 🚀 Getting Started
+
+```bash
+flutter pub get
+flutter run
+
 
