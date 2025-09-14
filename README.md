@@ -12,13 +12,11 @@ A Flutter application that displays books using REST API, following **Clean Arch
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c7e867fa-c459-4cb8-b544-590884494fe1" width="30%"/>
-<img src="https://github.com/user-attachments/assets/f807bd5d-3b49-4a96-960f-47e60a52a6e0"width="30%" />
-  <img  src="https://github.com/user-attachments/assets/dda9bc41-5ce8-4e77-a340-1960f8e9bc89"width="30%" />
+  <img src="https://github.com/user-attachments/assets/cd55f49d-868f-4c21-b719-f9c2436899db" width="30%"/>
+<img src="https://github.com/user-attachments/assets/aa42141b-a331-4ad2-8c63-e8608d6b6145"width="30%" />
+  <img  src="https://github.com/user-attachments/assets/843a678e-446a-4f1a-92e2-6674bc3e67da"width="30%" />
 
 </p>
-
-
 
 
 
