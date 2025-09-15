@@ -59,7 +59,7 @@ class BookDetailesViewBody extends StatelessWidget {
           SizedBox(height: 16),
           SizedBox(
             height: MediaQuery.sizeOf(context).height * 0.12,
-            child: CustomBookImageListViewBlocBuilder(),
+            child: CustomBookImageListViewBlocConsumer(),
           ),
         ],
       ),

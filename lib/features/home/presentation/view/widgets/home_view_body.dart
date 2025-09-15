@@ -21,7 +21,7 @@ class HomeViewBody extends StatelessWidget {
               SizedBox(height: 48),
               CustomAppBar(),
               SizedBox(height: 48),
-              CustomBookImageListViewBlocBuilder(),
+              CustomBookImageListViewBlocConsumer(),
               SizedBox(height: 48),
               TitleHeader(title: S.of(context).best_seller_header),
               SizedBox(height: 20),
